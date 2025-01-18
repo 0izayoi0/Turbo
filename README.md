@@ -1,162 +1,208 @@
-Themes are dark mode.
+# Themes are dark mode.
 
-# SEMANTIC COLOURS
+# SEMANTIC COLORS
+<details open>
+<summary>REDESIGN_BUTTON_SECONDARY_BACKGROUND</summary>
+- Color of “Add status” button<br>
+- Color of “Edit profile” button
+</details> 
+<details open>
+<summary>REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND</summary>
+- Background colors for:<br>
+- Attachment button<br>
+- Gift button<br>
+- Search button<br>
+- Add friends button<br>
+- Message request button<br>
+- Events button
+</details>
+<details open>
+<summary>REDESIGN_BUTTON_SECONDARY_BORDER</summary>
+- Border for “Add status” button<br>
+- Border for “Edit profile” button
+</details>
+<details open>
+<summary>BACKROUND_SECONDARY</summary>
+- Outer background for profiles<br>
+- Outer background for forum posts<br>
+- Background for single line code block thingys<br>
+- Outer background for context menus -> can be overwritten by BG_BASE_SECONDARY<br>
+- Audit log info background
+</details>
+<details open>
+<summary>BACKGROUND_MOBILE_SECONDARY</summary>
+- Header color
+</details>
+<details open>
+<summary>BACKGROUND_MOBILE_PRIMARY</summary>
+- Audit log outer background<br>
+- CloudSync outer background (CloudSync)
+</details>
+<details open>
+<summary>BACKGROUND_MODIFIER_ACCENT</summary>
+- Deals with the background for icons in the settings menu
+</details>
+<details open>
+<summary>BG_BASE_PRIMARY</summary>
+- Outer chatbox background<br>
+- Top chat header<br>
+- Channels list<br>
+- Messages page<br>
+- Notifications page
+</details>
+<details open>
+<summary>BG_BASE_SECONDARY</summary>
+- Settings pages<br>
+- Outer background for context menus
+</details>
+<details open>
+<summary>CARD_PRIMARY_BG</summary>
+- Inner background on you tab page<br>
+- Inner background on context menus<br>
+- Md3 toast and modal backgrounds
+</details>
+<details open>
+<summary>REDESIGN_CHANNEL_CATEGORY_NAME_TEXT</summary>
+- Changes Color for channel color headers
+</details>
+<br>
 
-REDESIGN_BUTTON_SECONDARY_BACKGROUND -
-Colour of "Add status" button (tabsv2)
-Colour of "Edit profile" button (tabsv2)
-
-REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND -
-Backround colours for:
-Attachment button
-Gift button
-Search button (tabsv2)
-Add friends button (tabsv2)
-Message request button (tabsv2)
-Events button (tabsv2)
-
-REDESIGN_BUTTON_SECONDARY_BORDER -
-Border for "Add status" button (tabsv2)
-Border for "Edit profile" button (tabsv2)
-
-BACKROUND_SECONDARY -
-Outer background for profiles
-Outer background for forum posts
-Background for single line code block thingys
-Outer backround for context menus (tabsv2) - can be overwritten by BG_BASE_SECONDARY
-Audit log info backround
-
-BACKGROUND_MOBILE_SECONDARY -
-Header colour
-
-BACKGROUND_MOBILE_PRIMARY -
-Audit log outer background
-CloudSync outer background (CloudSync)
-
-BACKGROUND_MODIFIER_ACCENT -
-Deals with the background for icons in the settings menu
-
-BG_BASE_PRIMARY -
-Outer chatbox background
-Top chat header (tabsv2)
-Channels list (tabvs2)
-Messages page (tabvs2)
-Notifications page (tabvs2)
-
-BG_BASE_SECONDARY - 
-Settings pages
-Outer background for context menus (tabvs2)
-
-CARD_PRIMARY_BG -
-Inner backround on you tab page 
-Inner backround on context menus (tabv2)
-Md3 toast and modal backrounds (nexxutils)
-
-REDESIGN_CHANNEL_CATEGORY_NAME_TEXT - Changes Color for channel color headers
-
-# RAW Colour's (As of 207.23)
-
-BRAND_260 - 
-Themes "OP" background in forum posts
-Pronoun tag background (pronounDB, Horror)
-
-BRAND_500 -
-For the switch trance
-
-BRAND_560 - 
-"OP" button text colour in forum posts
-
-PRIMARY_100 - 
-Settings > nitro gifting > nitro gift backround (light mode)
-Colour of "cancel" button in app authorise page
-
-PRIMARY_130 - 
-Themes navigation bars (light mode) (tabsv2)
-
-PRIMARY_160 - Does nothing on dark mode
-Some hover effects (tabsv2)
-Splash screen colour (light mode)
-
-PRIMARY_200 - Does nothing on dark mode
-Role chips (server settings > members) (light mode) 
-
-PRIMARY_230 - 
-Attachment icon, gift icon, voice note icon (dark mode)
-Toast popups (nexxutils)
-
-PRIMARY_300 -
-Themes gear icon in notification popups (dark mode)
-
-PRIMARY_360 -
-Read channel names (dark mode) (tabsUI)
-
-PRIMARY_400 -
-Channel icons
-Turned on switch
-
-PRIMARY_460 - 
-Colour of "Add status" button (dark mode) (tabv2)
-Colour of "Edit profile" button (dark mode) (tabv2)
-Read channel names (light mode) (tabsv2) 
-
-PRIMARY_560 - 
-Activity cards (tabsv2)
-
-PRIMARY_600 -
-Splash screen (dark mode) 
-Inner background of md3 switch toggles (nexxutils)
-
-PRIMARY_645 -
-Some hover colours *(dark mode) (tabsv2)*
-
-PRIMARY 700 -
-Chatbox colour *(dark mode)*
-Toast popups *(dark mode)*
-Search bar *(dark mode) (tabsv2)*
-
-PRIMARY_800 -
-Audit log filter chips *(light mode)*
-Navigation bars *(dark mode) (tabsv2)*
-
-PLUM_1 - Color for unread channels
-
-PLUM_3 - attach file/nitro button, add status/text icon, edit profile/icon, and text in chat (dark mode) 
-
-PLUM_6 - text preview for replied messages, react count for emotes under messages, and add reaction button under messages.
-
-PLUM_9 - channel list catagories
-
-PLUM_10 - minor text color,  read channel color and any where a channel is being referenced
-
-PLUM_11 - chat box bg and accent bar under browse channels 
-
-PLUM 13 - pressed button background
-
-PLUM_16 - 
-
-PLUM_17 - background for scroll to bottom of chat/new messages button
-
-Selected emoji/gift/sticker button (dark mode)
-PLUM 18 - inner background for profiles (forced transparency)
-PLUM_19 - background for activity cards
-
-PLUM_20 - background for channel list and user preview when someone is typing
-
-PLUM_22 - background that pops up when you swip a comment to reply
-
-BLACK_500 - 
-Transparency in context menus
-Backrounds for search, attachments, gift buttons *(light mode) (tabsv2)*
-
-WHITE_500 - 
-Bot tag text
-Emoji context menu text
-Turned on inner backround for switches *(tabvs2)*
-"Enable" button in push notification disabled message
-Text in notification bubbles
-"Get nitro" text in emoji context menus & edit profile page
-"Invite" text on invite button in channels list
-Text colour for nitro gift embeds in nitro gift menu
-
-WHITE_630 -
-Md3 turned off button outline *(nexxutils)*
+# RAW Colors (As of 207.23)
+<details open>
+<summary>BRAND_260</summary>
+- Themes “OP” background in forum posts<br>
+- Pronoun tag background (pronounDB, Horror)
+</details>
+<details open>
+<summary>BRAND_500</summary>
+- For the switch trance
+</details>
+<details open>
+<summary>BRAND_560</summary>
+- “OP” button text color in forum posts
+</details>
+<details open>
+<summary>PRIMARY_100</summary>
+- Settings > nitro gifting > nitro gift background (light mode)<br>
+- Color of “cancel” button in app authorize page
+</details>
+<details open>
+<summary>PRIMARY_130</summary>
+- Themes navigation bars (light mode) 
+</details>
+<details open>
+<summary>PRIMARY_160</summary>
+- Does nothing on dark mode<br>
+- Some hover effects <br>
+- Splash screen color (light mode)
+</details>
+<details open>
+<summary>PRIMARY_200</summary>
+- Does nothing on dark mode<br>
+- Role chips (server settings > members) (light mode) 
+</details>
+<details open>
+<summary>PRIMARY_230</summary>
+- Attachment icon, gift icon, voice note icon (dark mode)<br>
+- Toast popups (nexxutils)
+</details>
+<details open>
+<summary>PRIMARY_300</summary>
+- Themes gear icon in notification popups (dark mode)
+</details>
+<details open>
+<summary>PRIMARY_360</summary>
+- Read channel names (dark mode) (tabsUI)
+</details>
+<details open>
+<summary>PRIMARY_400</summary>
+- Channel icons<br>
+- Turned on switch
+</details>
+<details open>
+<summary>PRIMARY_460</summary>
+- Color of “Add status” button (dark mode) <br>
+- Color of “Edit profile” button (dark mode) <br>
+- Read channel names (light mode) 
+</details>
+<details open>
+<summary>PRIMARY_560</summary>
+- Activity cards 
+</details>
+<details open>
+<summary>PRIMARY_600</summary>
+- Splash screen (dark mode) <br>
+- Inner background of md3 switch toggles (nexxutils)
+</details>
+<details open>
+<summary>PRIMARY_645</summary>
+- Some hover colors (dark mode)
+</details>
+<details open>
+<summary>PRIMARY_700</summary>
+- Chatbox color (dark mode)<br>
+- Toast popups (dark mode)<br>
+- Search bar (dark mode)
+</details>
+<details open>
+<summary>PRIMARY_800</summary>
+- Navigation bars *(dark mode)*
+</details>
+<details open>
+<summary>PLUM_1</summary>
+- Color for unread channels
+</details>
+<details open>
+<summary>PLUM_3</summary>
+- Attach file/nitro button, add status/text icon, edit profile/icon, and text in chat (dark mode) <br> 
+</details>
+<details open>
+<summary>PLUM_6</summary>
+- Text preview for replied messages, react count for emotes under messages, and add reaction button under messages.
+</details>
+<details open>
+<summary>PLUM_9</summary>
+- Channel list categories
+</details>
+<details open>
+<summary>PLUM_10</summary>
+- Minor text color, read channel color and any where a channel is being referenced
+</details>
+<details open>
+<summary>PLUM_11</summary>
+- Chat box bg and accent bar under browse channels
+</details>
+<details open>
+<summary>PLUM_13</summary>
+- Pressed button background
+</details>
+<details open>
+<summary>PLUM_17</summary>
+- Background for scroll to bottom of chat/new messages button<br>
+- Selected emoji/gift/sticker button (dark mode)
+</details>
+<details open>
+<summary>PLUM_18</summary>
+- Inner background for profiles (forced transparency)
+</details>
+<details open>
+<summary>PLUM_19</summary>
+- Background for activity cards
+</details>
+<details open>
+<summary>PLUM_20</summary>
+- Background for channel list and user preview when someone is typing
+</details>
+<details open>
+<summary>PLUM_22</summary>
+- Background that pops up when you swip a comment to reply
+</details>
+<details open>
+<summary>BLACK_500</summary>
+- Transparency in context menus<br>
+- Backgrounds for search, attachments
+</details>
+<details open>
+<summary>WHITE_500</summary>
+- Bot tag text
+</details>
