@@ -179,6 +179,7 @@
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_500": "#1fa80d",
 		"PRIMARY_660": "#000000",
+		"PRIMARY_800": "#1fa80d",
 		"BRAND_260": "#1fa80d",
 		"BRAND_360": "#1fa80d",
 		"BRAND_500": "#1fa80d",
@@ -192,14 +193,14 @@
 		"PLUM_9": "#1fa80d",
 		"PLUM_11": "#000000",
 		"PLUM_13": "#1fa80d",
+		"PLUM_14": "#000000",
 		"PLUM_16": "#1fa80d70",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#000000",
 		"PLUM_19": "#1A1A1A",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#00000000",
-		"PLUM_24": "#000000",
-		"ROLE_DEFAULT": "#1fa80d"
+		"PLUM_24": "#000000"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
