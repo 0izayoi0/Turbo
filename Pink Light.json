@@ -1,6 +1,6 @@
 {
-	"name": "Pink Non-AMOLED",
-	"description": "Discord dark mode base, using pi pink, white for everything else",
+	"name": "Pink Light Mode",
+	"description": "White base, using pink & black for everything else",
 	"version": "1",
 	"authors": [
 		{
@@ -183,7 +183,7 @@
 		"PRIMARY_500": "#FFB5F3",
 		"PRIMARY_600": "#1A1A1A",
 		"PRIMARY_660": "#FFFFFF",
-		"PRIMARY_800": "#000000",
+		"PRIMARY_800": "#FFFFFF",
 		"BRAND_260": "#FFB5F3",
 		"BRAND_360": "#FFB5F3",
 		"BRAND_500": "#FFB5F3",
