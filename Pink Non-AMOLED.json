@@ -1,6 +1,6 @@
 {
-	"name": "RBW AMOLED",
-	"description": "AMOLED black base, using red, white & grey for everything else",
+	"name": "Pink Non-AMOLED",
+	"description": "Discord dark mode base, using pi pink, white for everything else",
 	"version": "1",
 	"authors": [
 		{
@@ -10,7 +10,7 @@
     ],
 	"plus": {
 		"version": 0,
-		"mentionLineColor": "#fff",
+		"mentionLineColor": "#000",
 		"iconpack": "solarbroken"
 	},
 	"semanticColors": {
@@ -21,7 +21,7 @@
             "#FFFFFF"
         ],
 		"TEXT_NORMAL": [
-            "#7D7A7A"
+            "#00000p"
         ],
 		"TEXT_SECONDARY": [
             "#FFFFFF"
@@ -90,10 +90,10 @@
             "#292B2F"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#4A4A4A35"
+            "#00000035"
         ],
 		"EMBED_BACKGROUND": [
-            "#1A1A1A35"
+            "#5e505c35"
         ],
 		"BACKGROUND_MENTIONED": [
             "#FFB5F330"
@@ -201,7 +201,7 @@
 		"PLUM_16": "#FFB5F370",
 		"PLUM_17": "#292B2F",
 		"PLUM_18": "#292B2F",
-		"PLUM_19": "#1A1A1A",
+		"PLUM_19": "#5e505c",
 		"PLUM_20": "#292B2F",
 		"PLUM_22": "#292B2F00",
 		"PLUM_24": "#292B2F"
