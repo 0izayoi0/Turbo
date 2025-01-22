@@ -1,5 +1,5 @@
 {
-	"name": "Krypt AMOLED",
+	"name": "Krypt",
 	"description": "AMOLED black base, using purple, white & grey for everything else",
 	"version": "1",
 	"authors": [
@@ -15,7 +15,7 @@
 	},
 	"background": {
 		"blur": 0.5,
-		"url": "https://raw.githubusercontent.com/I-am-TURBO/RBW/3fdb357cf25930dc227fdfa2a27805bf3bde80e3/images.jpg",
+		"url": "https://raw.githubusercontent.com/I-am-TURBO/TurboThemes/refs/heads/main/INFINITY2.jpg",
 		"alpha": 0.7
 	},
 	"semanticColors": {
