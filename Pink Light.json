@@ -36,46 +36,46 @@
             "#FFB5F3"
         ],
 		"INTERACTIVE_HOVER": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"INTERACTIVE_ACTIVE": [
             "#000000"
         ],
 		"INTERACTIVE_MUTED": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_PRIMARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_SECONDARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_SECONDARY_ALT": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_TERTIARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_ACCENT": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_FLOATING": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MOBILE_PRIMARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MOBILE_SECONDARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MOBILE_FLOATING": [
             "#404040"
         ],
 		"BACKGROUND_NESTED_FLOATING": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
             "#FFB5F3"
@@ -84,40 +84,40 @@
             "#FFB5F3"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MODIFIER_SELECTED": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#FFFFFF35"
+            "#99999935"
         ],
 		"EMBED_BACKGROUND": [
-            "#FFFFFF35"
+            "#99999935"
         ],
 		"BACKGROUND_MENTIONED": [
             "#FFB5F330"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
             "#FFB5F3"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
             "#FFB5F3"
@@ -126,16 +126,16 @@
             "#00000030"
         ],
 		"BG_BASE_PRIMARY": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"BG_BRAND": [
-            "#F2F2F2"
+            "#cccccc"
 	],
 		"SCROLLBAR_THIN_THUMB": [
             "#FFB5F3"
         ],
 		"SCROLLBAR_THIN_TRACK": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
             "#FFB5F3"
@@ -162,18 +162,18 @@
             "#000000"
         ],
 		"CHAT_BACKGROUND": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"CARD_PRIMARY_BG": [
-            "#F2F2F2"
+            "#cccccc"
         ],
 		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#000000"
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-            "#F2F2F2",
-            "#F2F2F2",
-            "#F2F2F2"
+            "#cccccc",
+            "#cccccc",
+            "#cccccc"
         ]
 	},
 	"rawColors": {
@@ -182,8 +182,8 @@
 		"PRIMARY_300": "#000000",
 		"PRIMARY_500": "#FFB5F3",
 		"PRIMARY_600": "#1A1A1A",
-		"PRIMARY_660": "#F2F2F2",
-		"PRIMARY_800": "#F2F2F2",
+		"PRIMARY_660": "#cccccc",
+		"PRIMARY_800": "#cccccc",
 		"BRAND_260": "#FFB5F3",
 		"BRAND_360": "#FFB5F3",
 		"BRAND_500": "#FFB5F3",
@@ -195,16 +195,16 @@
 		"PLUM_3": "#FFB5F3",
 		"PLUM_6": "#000000",
 		"PLUM_9": "#FFB5F3",
-		"PLUM_11": "#F2F2F2",
+		"PLUM_11": "#cccccc",
 		"PLUM_13": "#FFB5F3",
 		"PLUM_14": "#FFB5F3",
 		"PLUM_16": "#FFB5F370",
-		"PLUM_17": "#F2F2F2",
-		"PLUM_18": "#F2F2F2",
+		"PLUM_17": "#cccccc",
+		"PLUM_18": "#cccccc",
 		"PLUM_19": "#1A1A1A",
-		"PLUM_20": "#F2F2F2",
-		"PLUM_22": "#F2F2F200",
-		"PLUM_24": "#F2F2F2"
+		"PLUM_20": "#cccccc",
+		"PLUM_22": "#cccccc00",
+		"PLUM_24": "#cccccc"
 	},
 	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/I-am-TURBO/RBW/raw/refs/heads/main/Gantari-ExtraBold.ttf?raw=1",
