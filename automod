@@ -1,0 +1,15 @@
+
+---
+type: any
+title+body (includes, regex): ['(?i)\b(?:b[i1]t\s*[b8][e3]t(?:\s*[wvv][i1][n]*)?|b[i1]t[b8][e3]t(?:[wvv][i1][n]*)?)\b(?:\s*\.cc)?', "#1 casino to trust"]
+action: remove
+action_reason: "BitBetWin AI Bot Spam"
+modmail: |
+  {{permalink}}
+
+  this {{kind}} by /u/{{author}} was removed for bitbetwin spam. please ban the user.
+---
+
+
+it works with any way they try to mispell thinking they can bypass.
+ive tested it.
