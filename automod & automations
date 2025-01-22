@@ -1,0 +1,34 @@
+
+---
+type: any
+title+body (includes, regex): ['(?i)\b(?:b[i1]t\s*[b8][e3]t(?:\s*[wvv][i1][n]*)?|b[i1]t[b8][e3]t(?:[wvv][i1][n]*)?)\b(?:\s*\.cc)?', "#1 casino to trust"]
+action: remove
+action_reason: "BitBetWin AI Bot Spam"
+modmail: |
+  {{permalink}}
+
+  this {{kind}} by /u/{{author}} was removed for bitbetwin spam. please ban the user.
+---
+
+
+
+
+NO REFERRALS in AUTOMATIONS not automod :)
+[duplicate, and make the duplicate for comments]
+
+
+Submission Type:
+	Post
+Phrase Type:
+	Regex
+Regex:
+	(?:ref(?:=|\/)|referral|invite|code|coupon|discount|promo|partner|affiliate|unique|track|campaign|source|id|uid|user|customer|member|friend|bonus|reward|c|earn|mid|referralCode|signup(?:\/|=)|ref_code(?:\/|=)|\/?referred_by_id)\/earn=
+Check if matches:
+	Matches
+Part of post to check:
+	Post title or body
+
+BLOCK THE USER FROM SUBMITTING
+
+Message to user:
+	whatever you want it to popup and say, we have it say **NO REFERRALS**
