@@ -15,8 +15,8 @@
 	},
 	"background": {
 		"blur": 0.6,
-		"url": "https://raw.githubusercontent.com/I-am-TURBO/RBW/3fdb357cf25930dc227fdfa2a27805bf3bde80e3/images.jpg",
-		"alpha": 1
+		"url": "https://raw.githubusercontent.com/I-am-TURBO/TurboThemes/refs/heads/main/redimg.jpg",
+		"alpha": 0.7
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
