@@ -116,7 +116,7 @@
             "#000000"
         ],
 		"REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#00000000"
+            "#00000020"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
@@ -131,7 +131,7 @@
             "#FFFFFF30"
         ],
 		"BG_BASE_PRIMARY": [
-            "#00000000"
+            "#00000020"
         ],
 		"SCROLLBAR_THIN_THUMB": [
             "#7809F6"
