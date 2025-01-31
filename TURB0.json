@@ -14,9 +14,9 @@
 		"iconpack": "solarbroken"
 	},
 	"background": {
-		"blur": 0.6,
+		"blur": 1,
 		"url": "https://raw.githubusercontent.com/DEAD1nsane/TurboThemes/refs/heads/main/Venom%20Mickey.png",
-		"alpha": 0.7
+		"alpha": 1
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
@@ -47,7 +47,7 @@
             "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
-            "#2A2A2A"
+            "#202020"
         ],
 		"BACKGROUND_PRIMARY": [
             "#000000"
