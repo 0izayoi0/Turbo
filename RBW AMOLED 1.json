@@ -47,9 +47,6 @@
 		"BACKGROUND_PRIMARY": [
             "#000000"
         ],
-		"BACKGROUND_SECONDARY": [
-            "#"
-        ],
 		"BACKGROUND_SECONDARY_ALT": [
             "#000000"
         ],
@@ -201,8 +198,8 @@
 		"PLUM_13": "#ED2043",
 		"PLUM_16": "#ED204370",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#FFFFFF",
-		"PLUM_19": "#ED2043",
+		"PLUM_18": "#1A1A1A",
+		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
 		"PLUM_24": "#000000"
