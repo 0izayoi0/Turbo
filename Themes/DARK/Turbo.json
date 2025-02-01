@@ -14,9 +14,9 @@
         "iconpack": "solarbroken"
     },
     "background": {
-        "blur": 0.8,
+        "blur": 1.5,
         "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/Venom%20Mickey.png",
-        "alpha": 0.9
+        "alpha": 0.6
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
@@ -29,7 +29,7 @@
             "#FFFFFF"
         ],
         "TEXT_SECONDARY": [
-            "#7D7A7A"
+            "#FFFFFF"
         ],
         "TEXT_PRIMARY": [
             "#FFFFFF"
@@ -83,7 +83,7 @@
             "#000000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#ED204370"
+            "#00000080"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#ED2043"
