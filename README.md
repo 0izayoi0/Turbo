@@ -1,7 +1,8 @@
-# Themes are dark mode.
+#### cannot promise you these results below are up-to-date, but i can promise you that the [Revenge Theme Meys](https://purple-eyez.github.io/Bunny-Theme-Keys/index.html) are updated as much as humanly possible.
+
+### Themes are dark mode.
 
 # SEMANTIC COLORS
-
 REDESIGN_BUTTON_SECONDARY_BACKGROUND
 - Color of “Add status” button
 - Color of “Edit profile” button
