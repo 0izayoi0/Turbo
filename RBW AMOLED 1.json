@@ -15,22 +15,22 @@
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#ED2043F"
         ],
 		"HEADER_SECONDARY": [
             "#FFFFFF"
         ],
 		"TEXT_NORMAL": [
-            "#7D7A7A"
+            "#FFFFFF"
         ],
 		"TEXT_SECONDARY": [
-            "#FFFFFF"
+            "#ED2043"
         ],
 		"TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#ED2043"
         ],
 		"TEXT_MUTED": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_NORMAL": [
             "#ED2043"
@@ -42,7 +42,7 @@
             "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
-            "#2A2A2A"
+            "#010101"
         ],
 		"BACKGROUND_PRIMARY": [
             "#000000"
@@ -69,7 +69,7 @@
             "#000000"
         ],
 		"BACKGROUND_MOBILE_FLOATING": [
-            "#404040"
+            "#010101"
         ],
 		"BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -87,14 +87,13 @@
             "#000000"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#4A4A4A35"
+            "#40404030"
         ],
 		"EMBED_BACKGROUND": [
-            "#"PLUM_18": "#010101",
-35"
+            "#01010130"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#ED204330"
+            "#ED204340"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
@@ -120,6 +119,9 @@
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
             "#ED2043"
         ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+    				"#FFC814"
+    	  ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
         ],
@@ -148,10 +150,10 @@
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"TEXT_DANGER": [
-            "#FFFFFF"
+            "#ED2043"
         ],
 		"KEYBOARD": [
             "#ED2043"
@@ -165,9 +167,6 @@
 		"CARD_PRIMARY_BG": [
             "#000000"
         ],
-		"REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-            "#FFFFFF"
-        ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
             "#000000",
@@ -180,7 +179,7 @@
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_360": "#FFFFFF",
 		"PRIMARY_500": "#ED2043",
-		"PRIMARY_600": "#0C0C0C",
+		"PRIMARY_600": "#010101",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_800": "#000000",
 		"BRAND_260": "#ED2043",
@@ -199,8 +198,8 @@
 		"PLUM_13": "#ED2043",
 		"PLUM_16": "#ED204370",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#336699",
-		"PLUM_19": "#FFFFFF",
+		"PLUM_18": "#010101",
+		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
 		"PLUM_24": "#000000"
