@@ -90,7 +90,7 @@
             "#4A4A4A35"
         ],
 		"EMBED_BACKGROUND": [
-            "#1A1A1A30"
+            "#18181830"
         ],
 		"BACKGROUND_MENTIONED": [
             "#ED204340"
@@ -222,7 +222,6 @@
 	"NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Regular.ttf?raw=1",
 	"NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Italic.ttf?raw=1",
 	"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
-	"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1"
 	},
 	"spec": 2
 }
