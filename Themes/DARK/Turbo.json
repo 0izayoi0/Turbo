@@ -1,5 +1,5 @@
 {
-    "name": "RBW TEST",
+    "name": "Turbo",
     "description": "AMOLED black base, using red, white & grey for everything else",
     "version": "1",
     "authors": [
@@ -26,7 +26,7 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#7D7A7A"
+            "#FFFFFF"
         ],
         "TEXT_SECONDARY": [
             "#7D7A7A"
@@ -149,7 +149,7 @@
             "#FFFFFF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#ED2043"
+            "#181818"
         ],
         "CHANNELS_DEFAULT": [
             "#FFFFFF"
@@ -167,7 +167,7 @@
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            "#ED204370"
         ],
         "CARD_PRIMARY_BG": [
             "#000000"
