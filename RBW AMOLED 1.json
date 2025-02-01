@@ -21,7 +21,7 @@
             "#ED2043"
         ],
 		"TEXT_NORMAL": [
-            "#ED2043"
+            "#7A7A7A"
         ],
 		"TEXT_SECONDARY": [
             "#ED2043"
@@ -30,7 +30,7 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#FFFFFF"
+            "#ED2043"
         ],
 		"INTERACTIVE_NORMAL": [
             "#FFFFFF"
