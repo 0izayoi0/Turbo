@@ -1,6 +1,6 @@
 {
-	"name": "Krypt theme",
-	"description": "AMOLED black base, using purple, white & grey for everything else",
+	"name": "GBW AMOLED",
+	"description": "AMOLED black base, using green, white & grey for everything else",
 	"version": "1",
 	"authors": [
 		{
@@ -12,11 +12,6 @@
 		"version": 0,
 		"mentionLineColor": "#fff",
 		"iconpack": "solarbroken"
-	},
-	"background": {
-		"blur": 0.5,
-		"url": "https://raw.githubusercontent.com/DEAD1nsane/TurboThemes/refs/heads/main/INFINITY2.jpg",
-		"alpha": 0.7
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
@@ -35,10 +30,10 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
@@ -83,10 +78,10 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#000000"
@@ -98,16 +93,16 @@
             "#4A4A4A35"
         ],
 		"EMBED_BACKGROUND": [
-            "#1A1A1A35"
+            "#2A2A2A35"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#7809F630"
+            "#1FA80D30"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -116,7 +111,7 @@
             "#000000"
         ],
 		"REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#00000000"
+            "#000000"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
             "#000000"
@@ -125,43 +120,43 @@
             "#000000"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
         ],
 		"BG_BASE_PRIMARY": [
-            "#00000000"
+            "#000000"
         ],
     "BG_BRAND": [
             "#000000"
 				],
 		"SCROLLBAR_THIN_THUMB": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
         ],
 		"CHANNELTEXTAREA_BACKGROUND": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"CHANNELS_DEFAULT": [
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#7809F6"
+            "#1FA80D"
         ],
 		"CHANNEL_ICON": [
             "#FFFFFF"
@@ -182,28 +177,28 @@
         ]
 	},
 	"rawColors": {
-		"PRIMARY_200": "#7809F6",
+		"PRIMARY_200": "#1FA80D",
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
-		"PRIMARY_500": "#7809F6",
+		"PRIMARY_500": "#1FA80D",
 		"PRIMARY_600": "#1A1A1A",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_800": "#000000",
-		"BRAND_260": "#7809F6",
-		"BRAND_360": "#7809F6",
-		"BRAND_500": "#7809F6",
+		"BRAND_260": "#1FA80D",
+		"BRAND_360": "#1FA80D",
+		"BRAND_500": "#000000",
 		"BRAND_560": "#FFFFFF",
-		"RED_400": "#7809F6",
-		"GREEN_360": "#7809F6",
+		"RED_400": "#1FA80D",
+		"GREEN_360": "#1FA80D",
 		"WHITE_500": "#FFFFFF",
-		"PLUM_1": "#7809F6",
-		"PLUM_3": "#7809F6",
+		"PLUM_1": "#1FA80D",
+		"PLUM_3": "#1FA80D",
 		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#7809F6",
-		"PLUM_11": "#7809F6",
-		"PLUM_13": "#7809F6",
-		"PLUM_14": "#7809F6",
-		"PLUM_16": "#7809F670",
+		"PLUM_9": "#1FA80D",
+		"PLUM_11": "#1FA80D",
+		"PLUM_13": "#1FA80D",
+		"PLUM_14": "#1FA80D",
+		"PLUM_16": "#1FA80D70",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#202020",
 		"PLUM_19": "#000000",
