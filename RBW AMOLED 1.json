@@ -120,7 +120,7 @@
             "#ED2043"
         ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-    				"#FFC814"
+    				"#ED2043"
     	  ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
@@ -191,9 +191,8 @@
 		"WHITE_500": "#FFFFFF",
 		"PLUM_1": "#FFFFFF",
 		"PLUM_3": "#ED2043",
-		"PLUM_6": "#FFFFFF",
+		"PLUM_6": "#010101",
 		"PLUM_9": "#ED2043",
-		"PLUM_10": "#7A7A7A",
 		"PLUM_11": "#FFFFFF",
 		"PLUM_13": "#ED2043",
 		"PLUM_16": "#ED204370",
