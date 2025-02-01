@@ -1,6 +1,6 @@
 {
-    "name": "RBW AMOLED",
-    "description": "AMOLED black base, using red, white & grey for everything else",
+    "name": "Pink Light Mode TEST",
+    "description": "White base, using pink & black for everything else",
     "version": "1",
     "authors": [
         {
@@ -8,11 +8,6 @@
             "id": "288054683161853952"
         }
     ],
-    "plus": {
-        "version": 0,
-        "mentionLineColor": "#fff",
-        "iconpack": "solarbroken"
-    },
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#FFFFFF"
@@ -21,13 +16,13 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#CCCCCC"
+            "#000000"
         ],
         "TEXT_SECONDARY": [
-            "#FFFFFF"
+            "#222222"
         ],
         "TEXT_PRIMARY": [
-            "#FFFFFF"
+            "#111111"
         ],
         "TEXT_MUTED": [
             "#FFB5F3"
@@ -36,10 +31,10 @@
             "#FFB5F3"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFFFFF"
+            "#FF99E6"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#FF66CC"
         ],
         "INTERACTIVE_MUTED": [
             "#CCCCCC"
@@ -72,7 +67,7 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MOBILE_FLOATING": [
-            "#CCCCCC"
+            "#FFFFFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#FFFFFF"
@@ -90,10 +85,10 @@
             "#FFFFFF"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#CCCCCC35"
+            "#FFB5F335"
         ],
         "EMBED_BACKGROUND": [
-            "#CCCCCC35"
+            "#FFB5F335"
         ],
         "BACKGROUND_MENTIONED": [
             "#FFB5F330"
@@ -144,7 +139,7 @@
             "#FFFFFF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#FFB5F3"
+            "#FFFFFF"
         ],
         "CHANNELS_DEFAULT": [
             "#FFFFFF"
@@ -153,7 +148,7 @@
             "#FFB5F3"
         ],
         "TEXT_DANGER": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "KEYBOARD": [
             "#FFB5F3"
