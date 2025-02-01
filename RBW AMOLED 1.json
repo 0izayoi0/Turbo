@@ -90,7 +90,7 @@
             "#4A4A4A35"
         ],
 		"EMBED_BACKGROUND": [
-            "#1A1A1A35"
+            "#0C0C0C35"
         ],
 		"BACKGROUND_MENTIONED": [
             "#ED204330"
@@ -179,7 +179,7 @@
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_360": "#FFFFFF",
 		"PRIMARY_500": "#ED2043",
-		"PRIMARY_600": "#1A1A1A",
+		"PRIMARY_600": "#0C0C0C",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_800": "#000000",
 		"BRAND_260": "#ED2043",
@@ -198,6 +198,7 @@
 		"PLUM_13": "#ED2043",
 		"PLUM_16": "#ED204370",
 		"PLUM_17": "#000000",
+		"PLUM_18": "#0C0C0C",
 		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
