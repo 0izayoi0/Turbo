@@ -16,7 +16,7 @@
     "background": {
         "blur": 1.7,
         "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/Venom%20Mickey.png",
-        "alpha": 0.4
+        "alpha": 0.3
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
@@ -167,7 +167,7 @@
             "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
-            "#ED204370"
+            "#000000"
         ],
         "CARD_PRIMARY_BG": [
             "#000000"
