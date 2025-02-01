@@ -27,13 +27,13 @@
             "#ED2043"
         ],
 		"TEXT_PRIMARY": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"TEXT_MUTED": [
             "#FFFFFF"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
