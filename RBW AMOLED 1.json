@@ -24,7 +24,7 @@
             "#FFFFFF"
         ],
 		"TEXT_SECONDARY": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"TEXT_PRIMARY": [
             "#FFFFFF"
@@ -33,16 +33,16 @@
             "#ED2043"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#ED2043"
         ],
 		"INTERACTIVE_HOVER": [
             "#000000"
         ],
 		"INTERACTIVE_ACTIVE": [
-            "#ED2043"
+            "#FFFFFF"
         ],
 		"INTERACTIVE_MUTED": [
-            "#7A7A7A"
+            "#2A2A2A"
         ],
 		"BACKGROUND_PRIMARY": [
             "#000000"
@@ -69,7 +69,7 @@
             "#000000"
         ],
 		"BACKGROUND_MOBILE_FLOATING": [
-            "#010101"
+            "#404040"
         ],
 		"BACKGROUND_NESTED_FLOATING": [
             "#000000"
@@ -87,10 +87,10 @@
             "#000000"
         ],
 		"BACKGROUND_MODIFIER_ACCENT": [
-            "#40404030"
+            "#4A4A4A35"
         ],
 		"EMBED_BACKGROUND": [
-            "#01010130"
+            "#1A1A1A30"
         ],
 		"BACKGROUND_MENTIONED": [
             "#ED204340"
@@ -120,7 +120,7 @@
             "#ED2043"
         ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-    				"#ED2043"
+    				"#FFFFFF"
     	  ],
 		"ANDROID_RIPPLE": [
             "#FFFFFF30"
@@ -179,26 +179,26 @@
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_360": "#FFFFFF",
 		"PRIMARY_500": "#ED2043",
-		"PRIMARY_600": "#010101",
+		"PRIMARY_600": "#FFFFFF",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_800": "#000000",
 		"BRAND_260": "#ED2043",
 		"BRAND_360": "#ED2043",
 		"BRAND_500": "#ED2043",
 		"BRAND_560": "#FFFFFF",
-		"RED_400": "#ED2043",
+		"RED_400": "#FFFFFF",
 		"GREEN_360": "#ED2043",
 		"WHITE_500": "#FFFFFF",
 		"PLUM_1": "#FFFFFF",
 		"PLUM_3": "#ED2043",
-		"PLUM_6": "#010101",
+		"PLUM_6": "#FFFFFF",
 		"PLUM_9": "#ED2043",
 		"PLUM_10": "#ED2043",
 		"PLUM_11": "#FFFFFF",
 		"PLUM_13": "#ED2043",
 		"PLUM_16": "#ED204370",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#010101",
+		"PLUM_18": "#202020",
 		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
