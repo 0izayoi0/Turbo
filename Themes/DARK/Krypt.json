@@ -14,9 +14,9 @@
 		"iconpack": "solarbroken"
 	},
 	"background": {
-		"blur": 0.8,
+		"blur": 2.0,
 		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/INFINITY2.jpg",
-		"alpha": 0.9
+		"alpha": 0.6
 	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
@@ -83,7 +83,7 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#7809F6"
+            "#00000080"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
             "#7809F6"
