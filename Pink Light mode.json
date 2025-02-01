@@ -130,7 +130,7 @@
         ],
 		"BG_BRAND": [
             "#FFFFFF"
-	],
+			],
 		"SCROLLBAR_THIN_THUMB": [
             "#FFB5F3"
         ],
@@ -200,10 +200,10 @@
 		"PLUM_14": "#FFB5F3",
 		"PLUM_16": "#FFB5F370",
 		"PLUM_17": "#FFFFFF",
-		"PLUM_18": "#FFFFFF",
-		"PLUM_19": "#CCCCCC",
+		"PLUM_18": "#CCCCCC",
+		"PLUM_19": "#7A7A7A",
 		"PLUM_20": "#FFFFFF",
-		"PLUM_22": "#FFFFFF00",
+		"PLUM_22": "#FFFFFF",
 		"PLUM_24": "#FFFFFF"
 	},
 	"fonts": {

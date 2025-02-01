@@ -128,6 +128,9 @@
 		"BG_BASE_PRIMARY": [
             "#000000"
         ],
+    "BG_BRAND": [
+            "#000000"
+				],
 		"SCROLLBAR_THIN_THUMB": [
             "#1FA80D"
         ],
@@ -178,6 +181,7 @@
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_500": "#1FA80D",
+		"PRIMARY_600": "#1A1A1A",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_800": "#000000",
 		"BRAND_260": "#1FA80D",
@@ -196,10 +200,10 @@
 		"PLUM_14": "#1FA80D",
 		"PLUM_16": "#1FA80D70",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#000000",
-		"PLUM_19": "#1A1A1A",
+		"PLUM_18": "#202020",
+		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
-		"PLUM_22": "#00000000",
+		"PLUM_22": "#000000",
 		"PLUM_24": "#000000"
 	},
 	"fonts": {
