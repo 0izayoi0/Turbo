@@ -14,7 +14,7 @@
         "iconpack": "solarbroken"
     },
     "background": {
-        "blur": 2.0,
+        "blur": 1.5,
         "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/reimg.jpg",
         "alpha": 0.6
     },
