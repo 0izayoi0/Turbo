@@ -127,6 +127,9 @@
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#7809F6"
         ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+        		"#00000000"
+        ],
         "ANDROID_RIPPLE": [
             "#7809F630"
         ],
@@ -183,9 +186,6 @@
         ],
         "THREAD_CHANNEL_SPINE": [
         		"#7809F6"
-        ],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-        		"#00000000"
         ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
