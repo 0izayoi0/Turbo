@@ -16,7 +16,7 @@
     "background": {
         "blur": 0.6,
         "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/INFINITY2.jpg",
-        "alpha": 0.5
+        "alpha": 0.8
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
