@@ -1,6 +1,6 @@
 {
-    "name": "TURBO",
-    "description": " ",
+    "name": "TURBO TEST",
+    "description": "AMOLED",
     "version": "1",
     "authors": [
         {
@@ -14,7 +14,7 @@
         "iconpack": "solarbroken"
     },
     "background": {
-        "blur": 1.7,
+        "blur": 0.588,
         "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/Venom%20Mickey.png",
         "alpha": 0.5
     },
