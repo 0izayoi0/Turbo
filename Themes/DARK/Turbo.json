@@ -1,4 +1,3 @@
-{
     "name": "Turbo",
     "description": "AMOLED black base, using red, white & grey for everything else",
     "version": "1",
@@ -137,7 +136,10 @@
             "#000000"
         ],
         "BG_MOD_FAINT": [
-        		"#010101"
+        		"#090909"
+      	],
+      	"BG_MOD_STRONG": [
+      			"#090909"
       	],
         "SCROLLBAR_THIN_THUMB": [
             "#ED2043"
@@ -178,6 +180,9 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#FFFFFF"
         ],
+        "THREAD_CHANNEL_SPINE": [
+        		"#FFFFFF"
+        ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
             "#000000",
@@ -198,7 +203,8 @@
         "BRAND_560": "#FFFFFF",
         "RED_400": "#ED2043",
         "GREEN_360": "#ED2043",
-        "WHITE_500": "#FFFFFF",
+        "GREEN_430": "#000000",
+        "WHITE_500": "#ED2043",
         "PLUM_1": "#ED2043",
         "PLUM_3": "#ED2043",
         "PLUM_6": "#FFFFFF",

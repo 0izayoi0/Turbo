@@ -137,8 +137,11 @@
             "#000000"
         ],
         "BG_MOD_FAINT": [
-            "#010101"
+            "#090909"
         ],
+      	"BG_MOD_STRONG": [
+      			"#090909"
+      	],
         "SCROLLBAR_THIN_THUMB": [
             "#ED2043"
         ],
@@ -178,6 +181,12 @@
         "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
             "#FFFFFF"
         ],
+        "THREAD_CHANNEL_SPINE": [
+        		"#FFFFFF"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+        		"#00000000"
+        ],
         "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
             "#000000",
@@ -198,7 +207,9 @@
         "BRAND_560": "#FFFFFF",
         "RED_400": "#ED2043",
         "GREEN_360": "#ED2043",
+        "GREEN_430": "#000000",
         "WHITE_500": "#FFFFFF",
+        "BLUE_345": "#ED2043",
         "PLUM_1": "#ED2043",
         "PLUM_3": "#ED2043",
         "PLUM_6": "#FFFFFF",
