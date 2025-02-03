@@ -136,6 +136,9 @@
         "BG_BRAND": [
             "#000000"
         ],
+        "BG_MOD_FAINT": [
+        		"#7809F640"
+      	],
         "SCROLLBAR_THIN_THUMB": [
             "#7809F6"
         ],
