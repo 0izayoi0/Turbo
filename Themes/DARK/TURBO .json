@@ -65,7 +65,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#1A1A1A"
+            "#090909"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -140,10 +140,10 @@
             "#000000"
         ],
         "BG_MOD_FAINT": [
-        		"#1A1A1A"
+        		"#090909"
       	],
       	"BG_MOD_STRONG": [
-      			"#1A1A1A"
+      			"#090909"
       	],
         "SCROLLBAR_THIN_THUMB": [
             "#ED2043"
