@@ -126,7 +126,7 @@
             "#00000000"
         ],
 		"ANDROID_RIPPLE": [
-            "#ED024330"
+            "#FFFFFF30"
         ],
 		"BG_BASE_PRIMARY": [
             "#000000"
@@ -177,7 +177,7 @@
             "#FFFFFF"
         ],
 		"THREAD_CHANNEL_SPINE": [
-            "#FFFFFF"
+            "#202020"
         ],
 		"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
             "#000000",
@@ -199,8 +199,8 @@
 		"PRIMARY_800": "#ED024370",
 		"BRAND_260": "#ED0243",
 		"BRAND_360": "#ED0243",
-		"BRAND_560": "#FFFFFF",
-		"RED_400": "#181818",
+		"BRAND_560": "#000000",
+		"RED_400": "#303030",
 		"RED_430": "#000000",
 		"GREEN_360": "#ED0243",
 		"GREEN_430": "#000000",
@@ -213,95 +213,34 @@
 		"PLUM_11": "#ED0243",
 		"PLUM_13": "#ED0243",
 		"PLUM_14": "#000000",
-		"PLUM_15": "#181818",
+		"PLUM_15": "#202020",
 		"PLUM_16": "#ED024370",
 		"PLUM_17": "#000000",
-		"PLUM_18": "#181818",
+		"PLUM_18": "#020202",
 		"PLUM_19": "#000000",
 		"PLUM_20": "#000000",
 		"PLUM_22": "#000000",
 		"PLUM_24": "#000000"
 	},
     "fonts": {
-	"ABCGintoNord-ExtraBold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-ExtraBold.ttf?raw=1"
-    ],
-	"ggsans-Bold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Bold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Bold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Bold.ttf?raw=1"
-    ],
-	"ggsans-BoldItalic": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-BoldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-BoldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-BoldItalic.ttf?raw=1"
-    ],
-	"ggsans-ExtraBold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-ExtraBold.ttf?raw=1"
-    ],
-	"ggsans-ExtraBoldItalic": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBoldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-ExtraBoldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-ExtraBoldItalic.ttf?raw=1"
-    ],
-	"ggsans-Medium": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Medium.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Medium.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Medium.ttf?raw=1"
-    ],
-	"ggsans-MediumItalic": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-MediumItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-MediumItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-MediumItalic.ttf?raw=1"
-    ],
-	"ggsans-Normal": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Regular.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Normal.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Normal.ttf?raw=1"
-    ],
-	"ggsans-NormalItalic": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Italic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-NormalItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-NormalItalic.ttf?raw=1"
-    ],
-	"ggsans-Semibold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Semibold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Semibold.ttf?raw=1"
-    ],
-	"ggsans-SemiboldItalic": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBoldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-SemiboldItalic.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-SemiboldItalic.ttf?raw=1"
-    ],
-	"NotoSans-Bold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Bold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Bold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Bold.ttf?raw=1"
-    ],
-	"NotoSans-ExtraBold": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-ExtraBold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-ExtraBold.ttf?raw=1"
-    ],
-	"NotoSans-Medium": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Medium.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Medium.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Medium.ttf?raw=1"
-    ],
-	"NotoSans-Normal": [
-        "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Regular.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Normal.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Normal.ttf?raw=1"
-    ],
-	"ggmono-Normal": [
-        "https://github.com/Rairof/Theme-Fonts/raw/main/OPPOSans4.0/OPPOSans4.0-Semibold.ttf?raw=1",
-        "https://github.com/Rairof/Theme-Fonts/raw/main/Quicksand/Quicksand-Semibold.ttf?raw=1"
-    ]
+	"ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-ExtraBold.ttf?raw=1",
+	"ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Bold.ttf?raw=1",
+	"ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-BoldItalic.ttf?raw=1",
+	"ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-ExtraBold.ttf?raw=1",
+	"ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-ExtraBoldItalic.ttf?raw=1",
+	"ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Medium.ttf?raw=1",
+	"ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-MediumItalic.ttf?raw=1",
+	"ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Normal.ttf?raw=1",
+	"ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-NormalItalic.ttf?raw=1",
+	"ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Semibold.ttf?raw=1",
+	"ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-SemiboldItalic.ttf?raw=1",
+	"NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Bold.ttf?raw=1",
+	"NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-ExtraBold.ttf?raw=1",
+	"NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Medium.ttf?raw=1",
+	"NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Normal.ttf?raw=1",
+	"NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-NormalItalic.ttf?raw=1",
+	"NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Semibold.ttf?raw=1",
+	"ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Gantari/Gantari-Semibold.ttf?raw=1"
 },
 	"spec": 2
 }
