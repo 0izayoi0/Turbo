@@ -35,10 +35,10 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#ED0243"
+            "#1FA80D"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#ED0243"
+            "#336699"
         ],
 		"INTERACTIVE_HOVER": [
             "#181818"
