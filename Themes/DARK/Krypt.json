@@ -232,15 +232,15 @@
 		"ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-MediumItalic.ttf",
 		"ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Regular.ttf",
 		"ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Italic.ttf",
-		"ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-SemiBold.ttf",
-		"ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-SemiBoldItalic.ttf",
+		"ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Semibold.ttf",
+		"ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-SemiboldItalic.ttf",
 		"NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Bold.ttf",
 		"NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-ExtraBold.ttf",
 		"NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Medium.ttf",
 		"NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Regular.ttf",
 		"NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Italic.ttf",
-		"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-SemiBold.ttf",
-		"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-SemiBold.ttf"
+		"NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Semibold.ttf",
+		"SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/FontsGentari/Gentari-Semibold.ttf"
 	},
 	"spec": 2
 }
