@@ -161,7 +161,7 @@
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#ED0243"
+            "#336699"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
@@ -210,7 +210,7 @@
 		"GREEN_360": "#ED0243",
 		"GREEN_430": "#000000",
 		"WHITE_500": "#0ED2043",
-		"BLUE_345": "#ED0243",
+		"BLUE_345": "#336699",
 		"PLUM_1": "#ED0243",
 		"PLUM_3": "#ED0243",
 		"PLUM_6": "#FFFFFF",
