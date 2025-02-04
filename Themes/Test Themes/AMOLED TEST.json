@@ -42,7 +42,7 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#FFFFFF"
+            "#2A2A2A"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -60,7 +60,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#090909"
+            "#181818"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
