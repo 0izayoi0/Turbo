@@ -1,6 +1,6 @@
 {
-    "name": "WhatsApp AMOLED",
-    "description": "AMOLED black base, using green, white & grey for everything else",
+    "name": "AMOLED TEST",
+    "description": "AMOLED",
     "version": "1",
     "authors": [
         {
@@ -36,7 +36,7 @@
             "#52EB34"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#181818"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FFFFFF"
@@ -60,7 +60,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#090909"
+            "#181818"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -84,10 +84,10 @@
             "#52EB34"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#4A4A4A80"
@@ -96,7 +96,7 @@
             "#181818D0"
         ],
         "BACKGROUND_MENTIONED": [
-            "#52EB3440"
+            "#ED024340"
         ],
         "BG_SURFACE_OVERLAY_TMP": [
             "#000000"
@@ -117,16 +117,16 @@
             "#000000"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-            "#000000"
+            "#181818"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
             "#52EB34"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-        		"#000000"
+            "#000000"
         ],
         "ANDROID_RIPPLE": [
-            "#52EB3430"
+            "#ED024330"
         ],
         "BG_BASE_PRIMARY": [
             "#000000"
@@ -183,17 +183,20 @@
             "#000000",
             "#000000",
             "#000000"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#000000"
         ]
     },
     "rawColors": {
         "PRIMARY_200": "#52EB34",
         "PRIMARY_230": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_500": "#52EB34",
+        "PRIMARY_500": "#000000",
         "PRIMARY_600": "#181818",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#52EB3470",
+        "PRIMARY_800": "#ED024370",
         "BRAND_260": "#52EB34",
         "BRAND_360": "#52EB34",
         "BRAND_560": "#FFFFFF",
@@ -210,33 +213,34 @@
         "PLUM_13": "#52EB34",
         "PLUM_14": "#000000",
         "PLUM_15": "#181818",
-        "PLUM_16": "#52EB3470",
+        "PLUM_16": "#ED024370",
         "PLUM_17": "#000000",
-        "PLUM_18": "#191919",
+        "PLUM_18": "#19191970",
         "PLUM_19": "#000000",
         "PLUM_20": "#000000",
         "PLUM_22": "#000000",
         "PLUM_24": "#000000"
     },
     "fonts": {
-        "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Bold.ttf?raw=1",
-        "ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-BoldItalic.ttf?raw=1",
-        "ggsans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "ggsans-ExtraBoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBoldItalic.ttf?raw=1",
-        "ggsans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Medium.ttf?raw=1",
-        "ggsans-MediumItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-MediumItalic.ttf?raw=1",
-        "ggsans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Regular.ttf?raw=1",
-        "ggsans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Italic.ttf?raw=1",
-        "ggsans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
-        "ggsans-SemiboldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBoldItalic.ttf?raw=1",
-        "NotoSans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Bold.ttf?raw=1",
-        "NotoSans-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-ExtraBold.ttf?raw=1",
-        "NotoSans-Medium": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Medium.ttf?raw=1",
-        "NotoSans-Normal": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Regular.ttf?raw=1",
-        "NotoSans-NormalItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-Italic.ttf?raw=1",
-        "NotoSans-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
-        "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1"
+        "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-ExtraBold.ttf?raw=1",
+        "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Bold.ttf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-BoldItalic.ttf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-ExtraBold.ttf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-ExtraBoldItalic.ttf?raw=1",
+        "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Medium.ttf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Mediumtalic.ttf?raw=1",
+        "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Normal.ttf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Normaltalic.ttf?raw=1",
+        "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Semibold.ttf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-SemiboldItalic.ttf?raw=1",
+        "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Bold.ttf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-ExtraBold.ttf?raw=1",
+        "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Medium.ttf?raw=1",
+        "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Normal.ttf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Normaltalic.ttf?raw=1",
+        "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Semibold.ttf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
+        "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Semibold.ttf?raw=1"
     },
     "spec": 2
 }
