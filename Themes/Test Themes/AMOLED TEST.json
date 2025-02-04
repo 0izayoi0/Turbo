@@ -36,7 +36,7 @@
             "#ED0243"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000"
+            "#181818"
         ],
         "INTERACTIVE_ACTIVE": [
             "#FFFFFF"
@@ -84,10 +84,10 @@
             "#ED0243"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#181818"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#4A4A4A80"
@@ -183,6 +183,9 @@
             "#000000",
             "#000000",
             "#000000"
+        ],
+        "BG_BASE_TERTIARY": [
+            "#000000"
         ]
     },
     "rawColors": {
@@ -239,5 +242,10 @@
         "SourceCodePro-Semibold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari/Gantari-SemiBold.ttf?raw=1",
         "ggmono-Normal": "https://github.com/Rairof/Theme-Fonts/raw/main/Trakya/Trakya-Sans-Semibold.ttf?raw=1"
     },
-    "spec": 2
+    "spec": 2,
+    "background": {
+        "blur": 0.588,
+        "url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/Venom%20Mickey.png",
+        "alpha": 0.3
+    }
 }
