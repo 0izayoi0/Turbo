@@ -220,7 +220,7 @@
 		"PLUM_22": "#18181840",
 		"PLUM_24": "#000000"
 	},
-	"Fonts": {
+	"fonts": {
 		"ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gentari-ExtraBold.ttf?raw=1",
 		"ggsans-Bold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-Bold.ttf?raw=1",
 		"ggsans-BoldItalic": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gentari-BoldItalic.ttf?raw=1",
