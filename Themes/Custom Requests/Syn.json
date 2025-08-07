@@ -1,6 +1,6 @@
 {
-	"name": "Syn",
-	"description": "AMOLED black base, using dark blue, white & grey for everything else",
+	"name": "",
+	"description": "AMOLED black base, using navy blue, white & grey for everything else",
 	"version": "1",
 	"authors": [
 		{
@@ -30,10 +30,10 @@
             "#FFFFFF"
         ],
 		"TEXT_MUTED": [
-            "#0000FF"
+            "#000080"
         ],
 		"INTERACTIVE_NORMAL": [
-            "#0000FF"
+            "#000080"
         ],
 		"INTERACTIVE_HOVER": [
             "#181818"
@@ -78,10 +78,10 @@
             "#000000"
         ],
 		"BACKGROUND_MESSAGE_HOVER": [
-            "#0000FF"
+            "#000080"
         ],
 		"BACKGROUND_MODIFIER_HOVER": [
-            "#0000FF"
+            "#000080"
         ],
 		"BACKGROUND_MODIFIER_ACTIVE": [
             "#181818"
@@ -96,13 +96,13 @@
             "#181818D0"
         ],
 		"BACKGROUND_MENTIONED": [
-            "#0000FF40"
+            "#00008040"
         ],
 		"BG_SURFACE_OVERLAY_TMP": [
             "#000000"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND": [
-            "#0000FF"
+            "#000080"
         ],
 		"BUTTON_OUTLINE_BRAND_BOARDER": [
             "#000000"
@@ -120,7 +120,7 @@
             "#181818"
         ],
 		"REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#0000FF"
+            "#000080"
         ],
 		"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#00000000"
@@ -141,13 +141,13 @@
             "#090909"
         ],
 		"SCROLLBAR_THIN_THUMB": [
-            "#0000FF"
+            "#000080"
         ],
 		"SCROLLBAR_THIN_TRACK": [
             "#000000"
         ],
 		"SCROLLBAR_AUTO_THUMB": [
-            "#0000FF"
+            "#000080"
         ],
 		"SCROLLBAR_AUTO_TRACK": [
             "#FFFFFF"
@@ -156,13 +156,13 @@
             "#FFFFFF"
         ],
 		"TEXT_LINK": [
-            "#0000FF"
+            "#000080"
         ],
 		"TEXT_DANGER": [
             "#FFFFFF"
         ],
 		"KEYBOARD": [
-            "#0000FF"
+            "#000080"
         ],
 		"CHANNEL_ICON": [
             "#FFFFFF"
@@ -186,33 +186,33 @@
         ]
 	},
 	"rawColors": {
-		"PRIMARY_200": "#0000FF",
+		"PRIMARY_200": "#000080",
 		"PRIMARY_230": "#FFFFFF",
 		"PRIMARY_300": "#FFFFFF",
 		"PRIMARY_500": "#000000",
 		"PRIMARY_600": "#181818",
 		"PRIMARY_660": "#000000",
 		"PRIMARY_700": "#000000",
-		"PRIMARY_800": "#0000FF70",
-		"BRAND_260": "#0000FF",
-		"BRAND_360": "#0000FF",
+		"PRIMARY_800": "#00008070",
+		"BRAND_260": "#000080",
+		"BRAND_360": "#000080",
 		"BRAND_500": "#1A1A1A",
 		"BRAND_560": "#000000",
 		"RED_400": "#303030",
 		"RED_430": "#000000",
-		"GREEN_360": "#0000FF",
+		"GREEN_360": "#000080",
 		"GREEN_430": "#000000",
 		"WHITE_500": "#FFFFFF",
-		"BLUE_345": "#0000FF",
-		"PLUM_1": "#0000FF",
-		"PLUM_3": "#0000FF",
+		"BLUE_345": "#000080",
+		"PLUM_1": "#000080",
+		"PLUM_3": "#000080",
 		"PLUM_6": "#FFFFFF",
-		"PLUM_9": "#0000FF",
-		"PLUM_11": "#0000FF",
-		"PLUM_13": "#0000FF",
+		"PLUM_9": "#000080",
+		"PLUM_11": "#000080",
+		"PLUM_13": "#000080",
 		"PLUM_14": "#000000",
 		"PLUM_15": "#202020",
-		"PLUM_16": "#0000FF70",
+		"PLUM_16": "#00008070",
 		"PLUM_17": "#000000",
 		"PLUM_18": "#020202",
 		"PLUM_19": "#000000",
