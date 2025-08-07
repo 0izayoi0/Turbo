@@ -1,6 +1,6 @@
 {
-	"name": "Turbo Azure",
-	"description": "AMOLED black base, using Azure blue, white & grey for everything else",
+	"name": "pessed",
+	"description": "AMOLED black base, using blue, white & grey for everything else",
 	"version": "1",
 	"authors": [
 		{
@@ -13,11 +13,6 @@
 		"mentionLineColor": "#fff",
 		"iconpack": "rosiecord-plumpy"
 	},	
-	"background": {
-		"blur": 0.588,
-		"url": "https://raw.githubusercontent.com/DEAD1nsane/Turbo/refs/heads/main/Background%20Images/cookie.jpeg",
-		"alpha": 0.3
-	},
 	"semanticColors": {
 		"HEADER_PRIMARY": [
             "#FFFFFF"
